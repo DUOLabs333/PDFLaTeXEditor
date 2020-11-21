@@ -230,7 +230,7 @@ def Export(event=None):
     
 
 def on_closing():
-    if len(filename)>0:
+    if os.path.isdir(filename.split(r'\ '[:-1])[-1][:-4]):
         file=filename
         os.chdir(importDir)
         shutil.make_archive(file.split(r'\ '[:-1])[-1][:-4],'zip',file.split(r'\ '[:-1])[-1][:-4])
@@ -238,7 +238,7 @@ def on_closing():
 
         os.rename(file[:-4]+".zip",os.path.splitext(file[:-4]+".zip")[0]+".duo")
         shutil.rmtree(file[:-4])
-        tk.destroy()     
+    tk.destroy()     
 
 loadOpen=Frame(pages)
 
