@@ -212,7 +212,7 @@ def Export(event=None):
     file=filedialog.asksaveasfilename(initialdir=exportDir)
     if(len(file)>0):
         file = file.replace(r"/ "[:-1],r"\ "[:-1])
-        if(messagebox.askyesno("Confirm Decision",'Are you sure you want to save '+Stringify(filename.split(r"\ "[:-1])[-1][:-3]+"duo")+' as '+Stringify(file.split(r"\ "[:-1])[-1]))+"?"):
+        if(messagebox.askyesno("Confirm Decision",'Are you sure you want to save '+Stringify(filename.split(r"\ "[:-1])[-1][:-3]+"duo")+' as '+Stringify(file.split(r"\ "[:-1])[-1])+"?")):
             merger=PdfFileMerger()
             with open(Join(os.path.splitext(filename)[0],"numPages.txt")) as f:
                 for line in f:
@@ -230,7 +230,7 @@ def Export(event=None):
     
 
 def on_closing():
-    if os.path.isdir(filename.split(r'\ '[:-1])[-1][:-4]):
+    if os.path.isdir(filename[:-4]):
         file=filename
         os.chdir(importDir)
         shutil.make_archive(file.split(r'\ '[:-1])[-1][:-4],'zip',file.split(r'\ '[:-1])[-1][:-4])
