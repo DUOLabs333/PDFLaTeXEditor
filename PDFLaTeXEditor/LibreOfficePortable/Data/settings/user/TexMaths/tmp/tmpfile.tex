@@ -1,0 +1,29 @@
+\documentclass[10pt,dvips]{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage[usenames]{color}
+\usepackage{ifxetex}
+
+% XeLaTeX compiler
+\ifxetex
+
+    \usepackage{fontspec}
+    \usepackage{unicode-math}
+
+    % Uncomment these lines for alternative fonts
+    %\setmainfont{FreeSerif}
+    %\setmathfont{FreeSerif}
+
+% LaTeX compiler
+\else
+
+    % Uncomment this line for sans-serif maths font
+    %\everymath{\mathsf{\xdef\mysf{\mathgroup\the\mathgroup\relax}}\mysf}
+
+\fi
+
+
+\pagestyle{empty}
+\begin{document}
+x^2
+\end{document}

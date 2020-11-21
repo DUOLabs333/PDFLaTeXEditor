@@ -1,0 +1,47 @@
+2020-11-20 10:16:49,259-0500 INFO  miktex-pdftex - this process (12988) started by 'miktex-makefmt' with command line: miktex-pdftex.exe --miktex-enable-installer --miktex-disable-maintenance --miktex-disable-diagnose --initialize --interaction=nonstopmode --halt-on-error --alias=latex --job-name=latex -tcx=cp227.tcx --enable-etex latex.ini
+2020-11-20 10:16:49,267-0500 INFO  miktex-pdftex - allowing known shell commands
+2020-11-20 10:16:49,267-0500 INFO  miktex-pdftex - enabling input (output) from (to) processes
+2020-11-20 10:16:50,169-0500 INFO  miktex-pdftex - installing package atveryend triggered by tex/latex/atveryend\atveryend.sty
+2020-11-20 10:16:50,199-0500 INFO  miktex-pdftex.packagemanager - going to download https://api2.miktex.org/hello
+2020-11-20 10:16:51,022-0500 INFO  miktex-pdftex.packagemanager - going to download https://api2.miktex.org/repositories?&releaseState=Stable&orderBy=ranking&take=1
+2020-11-20 10:16:51,146-0500 INFO  miktex-pdftex - mpm: starting package maintenance...
+2020-11-20 10:16:51,147-0500 INFO  miktex-pdftex - mpm: installation directory: C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install
+2020-11-20 10:16:51,147-0500 INFO  miktex-pdftex - mpm: package repository: http://ctan.math.washington.edu/tex-archive/systems/win32/miktex/tm/packages/
+2020-11-20 10:16:53,883-0500 WARN  miktex-pdftex.packagemanager - dependancy problem: miktex-doc-2.9 is required by _miktex-packages-2.9
+2020-11-20 10:16:54,296-0500 INFO  miktex-pdftex - mpm: package repository digest: 4dc3e7ad381fc1ad1dec883f91a2e7ca
+2020-11-20 10:16:54,304-0500 INFO  miktex-pdftex - mpm: going to download 389295 bytes
+2020-11-20 10:16:54,304-0500 INFO  miktex-pdftex - mpm: going to install 5 file(s) (1 package(s))
+2020-11-20 10:16:55,530-0500 INFO  miktex-pdftex.packagemanager - installing package atveryend
+2020-11-20 10:16:55,551-0500 INFO  miktex-pdftex - mpm: downloading http://ctan.math.washington.edu/tex-archive/systems/win32/miktex/tm/packages/atveryend.tar.lzma...
+2020-11-20 10:16:55,553-0500 INFO  miktex-pdftex.packagemanager - going to download http://ctan.math.washington.edu/tex-archive/systems/win32/miktex/tm/packages/atveryend.tar.lzma
+2020-11-20 10:16:56,929-0500 INFO  miktex-pdftex - mpm: 0.39 MB, 2.27 Mbit/s
+2020-11-20 10:16:56,936-0500 INFO  miktex-pdftex - mpm: extracting files from atveryend.tar.lzma...
+2020-11-20 10:16:57,883-0500 INFO  miktex-pdftex.core - start process: initexmf --mkmaps
+2020-11-20 10:17:07,039-0500 INFO  miktex-pdftex - installing package atbegshi triggered by tex/generic/atbegshi\atbegshi.sty
+2020-11-20 10:17:07,041-0500 INFO  miktex-pdftex.packagemanager - going to download https://api2.miktex.org/repositories/b7bf67c1b7e75486c0a33a252d10f644
+2020-11-20 10:17:07,632-0500 INFO  miktex-pdftex - mpm: starting package maintenance...
+2020-11-20 10:17:07,632-0500 INFO  miktex-pdftex - mpm: installation directory: C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install
+2020-11-20 10:17:07,632-0500 INFO  miktex-pdftex - mpm: package repository: http://ctan.math.washington.edu/tex-archive/systems/win32/miktex/tm/packages/
+2020-11-20 10:17:08,104-0500 INFO  miktex-pdftex - mpm: package repository digest: 4dc3e7ad381fc1ad1dec883f91a2e7ca
+2020-11-20 10:17:08,104-0500 INFO  miktex-pdftex - mpm: going to download 418256 bytes
+2020-11-20 10:17:08,104-0500 INFO  miktex-pdftex - mpm: going to install 7 file(s) (1 package(s))
+2020-11-20 10:17:09,275-0500 INFO  miktex-pdftex.packagemanager - installing package atbegshi
+2020-11-20 10:17:09,277-0500 INFO  miktex-pdftex - mpm: downloading http://ctan.math.washington.edu/tex-archive/systems/win32/miktex/tm/packages/atbegshi.tar.lzma...
+2020-11-20 10:17:09,277-0500 INFO  miktex-pdftex.packagemanager - going to download http://ctan.math.washington.edu/tex-archive/systems/win32/miktex/tm/packages/atbegshi.tar.lzma
+2020-11-20 10:17:10,028-0500 INFO  miktex-pdftex - mpm: 0.42 MB, 4.46 Mbit/s
+2020-11-20 10:17:10,036-0500 INFO  miktex-pdftex - mpm: extracting files from atbegshi.tar.lzma...
+2020-11-20 10:17:11,084-0500 INFO  miktex-pdftex.core - start process: initexmf --mkmaps
+2020-11-20 10:17:24,285-0500 INFO  miktex-pdftex - installing package latex-firstaid triggered by tex/latex/firstaid\latex2e-first-aid-for-external-files.ltx
+2020-11-20 10:17:24,307-0500 INFO  miktex-pdftex - mpm: starting package maintenance...
+2020-11-20 10:17:24,307-0500 INFO  miktex-pdftex - mpm: installation directory: C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install
+2020-11-20 10:17:24,307-0500 INFO  miktex-pdftex - mpm: package repository: http://ctan.math.washington.edu/tex-archive/systems/win32/miktex/tm/packages/
+2020-11-20 10:17:25,215-0500 INFO  miktex-pdftex - mpm: package repository digest: 4dc3e7ad381fc1ad1dec883f91a2e7ca
+2020-11-20 10:17:25,215-0500 INFO  miktex-pdftex - mpm: going to download 223475 bytes
+2020-11-20 10:17:25,215-0500 INFO  miktex-pdftex - mpm: going to install 7 file(s) (1 package(s))
+2020-11-20 10:17:27,368-0500 INFO  miktex-pdftex.packagemanager - installing package latex-firstaid
+2020-11-20 10:17:27,370-0500 INFO  miktex-pdftex - mpm: downloading http://ctan.math.washington.edu/tex-archive/systems/win32/miktex/tm/packages/latex-firstaid.tar.lzma...
+2020-11-20 10:17:27,370-0500 INFO  miktex-pdftex.packagemanager - going to download http://ctan.math.washington.edu/tex-archive/systems/win32/miktex/tm/packages/latex-firstaid.tar.lzma
+2020-11-20 10:17:27,954-0500 INFO  miktex-pdftex - mpm: 0.22 MB, 3.07 Mbit/s
+2020-11-20 10:17:27,958-0500 INFO  miktex-pdftex - mpm: extracting files from latex-firstaid.tar.lzma...
+2020-11-20 10:17:29,414-0500 INFO  miktex-pdftex.core - start process: initexmf --mkmaps
+2020-11-20 10:17:41,080-0500 INFO  miktex-pdftex - this process (12988) finishes with exit code 0

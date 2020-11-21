@@ -1,0 +1,74 @@
+2020-11-20 09:25:51,102-0500 INFO  initexmf - this is MiKTeX Configuration Utility 4.1 (MiKTeX 20.11 Portable)
+2020-11-20 09:25:51,103-0500 INFO  initexmf - this process (5452) started by 'miktex-portable' with command line: initexmf --rmfndb --log-file=C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs/install\miktex/config\uninst.log --disable-installer --verbose
+2020-11-20 09:25:51,103-0500 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2020-11-20 09:25:51,107-0500 INFO  initexmf - this process (5452) finishes with exit code 0
+2020-11-20 09:25:52,213-0500 INFO  initexmf - this is MiKTeX Configuration Utility 4.1 (MiKTeX 20.11 Portable)
+2020-11-20 09:25:52,213-0500 INFO  initexmf - this process (7468) started by 'miktex-portable' with command line: initexmf --update-fndb --log-file=C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs/install\miktex/config\uninst.log --disable-installer --verbose
+2020-11-20 09:25:52,220-0500 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2020-11-20 09:25:52,222-0500 INFO  initexmf - Creating fndb for common root directory (C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs/config)...
+2020-11-20 09:25:52,247-0500 INFO  initexmf - Creating fndb for common root directory (C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs/data)...
+2020-11-20 09:25:52,264-0500 INFO  initexmf - Creating fndb for common root directory (C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install)...
+2020-11-20 09:25:59,806-0500 WARN  initexmf.packagemanager - dependancy problem: miktex-doc-2.9 is required by _miktex-packages-2.9
+2020-11-20 09:25:59,869-0500 INFO  initexmf - Creating fndb for MPM...
+2020-11-20 09:26:04,576-0500 INFO  initexmf - this process (7468) finishes with exit code 0
+2020-11-20 09:26:05,029-0500 INFO  initexmf - this is MiKTeX Configuration Utility 4.1 (MiKTeX 20.11 Portable)
+2020-11-20 09:26:05,029-0500 INFO  initexmf - this process (4700) started by 'miktex-portable' with command line: initexmf --force --mklinks --log-file=C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs/install\miktex/config\uninst.log --disable-installer --verbose
+2020-11-20 09:26:05,029-0500 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2020-11-20 09:26:05,036-0500 INFO  initexmf - Collecting linked executables in target directory C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install\miktex/bin/x64...
+2020-11-20 09:26:05,117-0500 WARN  initexmf - The lualatex executable could not be found.
+2020-11-20 09:26:07,898-0500 INFO  initexmf - this process (4700) finishes with exit code 0
+2020-11-20 09:26:08,364-0500 INFO  initexmf - this is MiKTeX Configuration Utility 4.1 (MiKTeX 20.11 Portable)
+2020-11-20 09:26:08,365-0500 INFO  initexmf - this process (8148) started by 'miktex-portable' with command line: initexmf --mkmaps --mklangs --log-file=C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs/install\miktex/config\uninst.log --disable-installer --verbose
+2020-11-20 09:26:08,365-0500 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2020-11-20 09:26:08,371-0500 INFO  initexmf - Creating language.dat, language.dat.lua and language.def...
+2020-11-20 09:26:08,573-0500 INFO  initexmf - running: mkfntmap --verbose --disable-installer --miktex-disable-maintenance --miktex-disable-diagnose
+2020-11-20 09:26:08,659-0500 INFO  initexmf.core - start process: mkfntmap --verbose --disable-installer --miktex-disable-maintenance --miktex-disable-diagnose
+2020-11-20 09:26:35,189-0500 INFO  initexmf - this process (8148) finishes with exit code 0
+2020-11-20 09:26:35,651-0500 INFO  initexmf - this is MiKTeX Configuration Utility 4.1 (MiKTeX 20.11 Portable)
+2020-11-20 09:26:35,651-0500 INFO  initexmf - this process (4928) started by 'miktex-portable' with command line: initexmf --default-paper-size=A4 --log-file=C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs/install\miktex/config\uninst.log --disable-installer --verbose
+2020-11-20 09:26:35,651-0500 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2020-11-20 09:26:35,815-0500 INFO  initexmf - this process (4928) finishes with exit code 0
+2020-11-20 09:26:36,264-0500 INFO  initexmf - this is MiKTeX Configuration Utility 4.1 (MiKTeX 20.11 Portable)
+2020-11-20 09:26:36,265-0500 INFO  initexmf - this process (7264) started by 'miktex-portable' with command line: initexmf --set-config-value=[MPM]AutoInstall=1 --log-file=C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs/install\miktex/config\uninst.log --disable-installer --verbose
+2020-11-20 09:26:36,265-0500 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2020-11-20 09:26:36,266-0500 INFO  initexmf - Setting config value: [MPM]AutoInstall=1
+2020-11-20 09:26:36,328-0500 INFO  initexmf - this process (7264) finishes with exit code 0
+2020-11-20 09:26:36,718-0500 INFO  initexmf - this is MiKTeX Configuration Utility 4.1 (MiKTeX 20.11 Portable)
+2020-11-20 09:26:36,719-0500 INFO  initexmf - this process (7108) started by 'miktex-portable' with command line: initexmf --update-fndb --log-file=C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs/install\miktex/config\uninst.log --disable-installer --verbose
+2020-11-20 09:26:36,719-0500 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2020-11-20 09:26:36,780-0500 INFO  initexmf - Creating fndb for common root directory (C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs/config)...
+2020-11-20 09:26:36,806-0500 INFO  initexmf - Creating fndb for common root directory (C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs/data)...
+2020-11-20 09:26:36,828-0500 INFO  initexmf - Creating fndb for common root directory (C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install)...
+2020-11-20 09:26:45,487-0500 WARN  initexmf.packagemanager - dependancy problem: miktex-doc-2.9 is required by _miktex-packages-2.9
+2020-11-20 09:26:45,603-0500 INFO  initexmf - Creating fndb for MPM...
+2020-11-20 09:26:51,971-0500 INFO  initexmf - this process (7108) finishes with exit code 0
+2020-11-20 09:26:52,421-0500 INFO  initexmf - this is MiKTeX Configuration Utility 4.1 (MiKTeX 20.11 Portable)
+2020-11-20 09:26:52,422-0500 INFO  initexmf - this process (12296) started by 'miktex-portable' with command line: initexmf --report --log-file=C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs/install\miktex/config\uninst.log --disable-installer --verbose
+2020-11-20 09:26:52,422-0500 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2020-11-20 09:26:52,549-0500 INFO  initexmf.core - start process: pdftex --miktex-disable-installer --miktex-disable-maintenance --miktex-disable-diagnose --version
+2020-11-20 09:26:53,529-0500 INFO  initexmf.core - start process: pdftex --miktex-disable-installer --miktex-disable-maintenance --miktex-disable-diagnose --version
+2020-11-20 09:26:54,059-0500 INFO  initexmf - this process (12296) finishes with exit code 0
+2020-11-20 10:16:48,154-0500 INFO  initexmf - this is MiKTeX Configuration Utility 4.1 (MiKTeX 20.11 Portable)
+2020-11-20 10:16:48,154-0500 INFO  initexmf - this process (2440) started by 'latex' with command line: initexmf --enable-installer --dump-by-name=latex --engine=pdftex
+2020-11-20 10:16:48,154-0500 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2020-11-20 10:16:48,169-0500 INFO  initexmf - running: miktex-makefmt.exe --engine=pdftex --dest-name=latex --no-dump latex.ini --engine-option=-tcx=cp227.tcx --enable-installer --miktex-disable-maintenance --miktex-disable-diagnose
+2020-11-20 10:16:48,253-0500 INFO  initexmf.core - start process: miktex-makefmt.exe --engine=pdftex --dest-name=latex --no-dump latex.ini --engine-option=-tcx=cp227.tcx --enable-installer --miktex-disable-maintenance --miktex-disable-diagnose
+2020-11-20 10:16:58,160-0500 INFO  initexmf - this is MiKTeX Configuration Utility 4.1 (MiKTeX 20.11 Portable)
+2020-11-20 10:16:58,160-0500 INFO  initexmf - this process (13548) started by 'miktex-pdftex' with command line: initexmf --mkmaps
+2020-11-20 10:16:58,161-0500 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2020-11-20 10:16:58,164-0500 INFO  initexmf - running: mkfntmap --enable-installer --miktex-disable-maintenance --miktex-disable-diagnose
+2020-11-20 10:16:58,243-0500 INFO  initexmf.core - start process: mkfntmap --enable-installer --miktex-disable-maintenance --miktex-disable-diagnose
+2020-11-20 10:17:06,866-0500 INFO  initexmf - this process (13548) finishes with exit code 0
+2020-11-20 10:17:11,406-0500 INFO  initexmf - this is MiKTeX Configuration Utility 4.1 (MiKTeX 20.11 Portable)
+2020-11-20 10:17:11,407-0500 INFO  initexmf - this process (14124) started by 'miktex-pdftex' with command line: initexmf --mkmaps
+2020-11-20 10:17:11,407-0500 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2020-11-20 10:17:11,411-0500 INFO  initexmf - running: mkfntmap --enable-installer --miktex-disable-maintenance --miktex-disable-diagnose
+2020-11-20 10:17:11,501-0500 INFO  initexmf.core - start process: mkfntmap --enable-installer --miktex-disable-maintenance --miktex-disable-diagnose
+2020-11-20 10:17:20,099-0500 INFO  initexmf - this process (14124) finishes with exit code 0
+2020-11-20 10:17:29,709-0500 INFO  initexmf - this is MiKTeX Configuration Utility 4.1 (MiKTeX 20.11 Portable)
+2020-11-20 10:17:29,709-0500 INFO  initexmf - this process (9008) started by 'miktex-pdftex' with command line: initexmf --mkmaps
+2020-11-20 10:17:29,709-0500 INFO  initexmf - Operating on the private (per-user) MiKTeX setup
+2020-11-20 10:17:29,714-0500 INFO  initexmf - running: mkfntmap --enable-installer --miktex-disable-maintenance --miktex-disable-diagnose
+2020-11-20 10:17:29,795-0500 INFO  initexmf.core - start process: mkfntmap --enable-installer --miktex-disable-maintenance --miktex-disable-diagnose
+2020-11-20 10:17:40,749-0500 INFO  initexmf - this process (9008) finishes with exit code 0
+2020-11-20 10:17:41,296-0500 INFO  initexmf - this process (2440) finishes with exit code 0

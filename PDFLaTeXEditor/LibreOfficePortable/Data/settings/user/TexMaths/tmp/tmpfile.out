@@ -1,0 +1,61 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11 Portable)
+entering extended mode
+(tmpfile.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-10-27> xparse <2020-03-03>
+(C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install\tex/la
+tex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+
+(C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install\tex/la
+tex/base\size10.clo))
+(C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install\tex/la
+tex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+
+(C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install\tex/la
+tex/amsmath\amstext.sty
+(C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install\tex/la
+tex/amsmath\amsgen.sty))
+(C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install\tex/la
+tex/amsmath\amsbsy.sty)
+(C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install\tex/la
+tex/amsmath\amsopn.sty))
+(C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install\tex/la
+tex/amsfonts\amssymb.sty
+(C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install\tex/la
+tex/amsfonts\amsfonts.sty))
+(C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install\tex/la
+tex/graphics\color.sty
+(C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install\tex/la
+tex/graphics-cfg\color.cfg)
+(C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install\tex/la
+tex/graphics-def\dvips.def)
+(C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install\tex/la
+tex/graphics\dvipsnam.def))
+(C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install\tex/ge
+neric/iftex\ifxetex.sty
+(C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install\tex/ge
+neric/iftex\iftex.sty))
+(C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install\tex/la
+tex/l3backend\l3backend-dvips.def)
+No file tmpfile.aux.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.28 x^
+       2
+
+(C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install\tex/la
+tex/amsfonts\umsa.fd)
+(C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install\tex/la
+tex/amsfonts\umsb.fd)
+! Missing $ inserted.
+<inserted text> 
+                $
+l.29 \end{document}
+                   
+[1] (tmpfile.aux) )
+(see the transcript file for additional information)
+Output written on tmpfile.dvi (1 page, 400 bytes).
+Transcript written on tmpfile.log.

@@ -1,0 +1,7 @@
+2020-11-20 09:25:51,909-0500 INFO  mpmcli - this is mpmcli 4.0 (MiKTeX 20.11 Portable)
+2020-11-20 09:25:51,910-0500 INFO  mpmcli - this process (4396) started by 'miktex-portable' with command line: mpm --register-components --verbose
+2020-11-20 09:25:51,910-0500 INFO  mpmcli - Operating on the private (per-user) MiKTeX setup
+2020-11-20 09:25:51,920-0500 INFO  mpmcli - configuring fontconfig\config\fonts.conf
+2020-11-20 09:25:51,980-0500 WARN  mpmcli.core - still open: C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install\fontconfig\config\fonts.conf.in
+2020-11-20 09:25:51,980-0500 WARN  mpmcli.core - still open: C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs/config\fontconfig\config\fonts.conf
+2020-11-20 09:25:51,982-0500 INFO  mpmcli - this process (4396) finishes with exit code 0

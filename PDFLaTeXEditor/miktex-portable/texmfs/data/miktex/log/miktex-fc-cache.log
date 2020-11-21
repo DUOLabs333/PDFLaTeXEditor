@@ -1,0 +1,8 @@
+2020-11-20 09:26:18,322-0500 INFO  miktex-fc-cache - this process (4360) started by 'mkfntmap' with command line: miktex-fc-cache --verbose --miktex-disable-maintenance --miktex-disable-diagnose
+2020-11-20 09:26:35,091-0500 INFO  miktex-fc-cache - this process (4360) finishes with exit code 0
+2020-11-20 10:17:06,084-0500 INFO  miktex-fc-cache - this process (9892) started by 'mkfntmap' with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2020-11-20 10:17:06,777-0500 INFO  miktex-fc-cache - this process (9892) finishes with exit code 0
+2020-11-20 10:17:19,515-0500 INFO  miktex-fc-cache - this process (10460) started by 'mkfntmap' with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2020-11-20 10:17:20,008-0500 INFO  miktex-fc-cache - this process (10460) finishes with exit code 0
+2020-11-20 10:17:40,201-0500 INFO  miktex-fc-cache - this process (15136) started by 'mkfntmap' with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2020-11-20 10:17:40,671-0500 INFO  miktex-fc-cache - this process (15136) finishes with exit code 0

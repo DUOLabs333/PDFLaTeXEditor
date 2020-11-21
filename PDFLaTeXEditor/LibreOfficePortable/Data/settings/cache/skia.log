@@ -1,0 +1,8 @@
+RenderMethod: vulkan
+Vendor: 0x8086
+Device: 0x1916
+API: 1.1.85
+Driver: 0.401.2277
+DeviceType: integrated
+DeviceName: Intel(R) HD Graphics 520
+Blacklisted: no

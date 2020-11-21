@@ -1,0 +1,8 @@
+2020-11-20 10:16:47,664-0500 INFO  latex - this process (4568) started by 'cmd' with command line: C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install\miktex\bin\x64\latex.exe -shell-escape -interaction=nonstopmode tmpfile.tex
+2020-11-20 10:16:47,686-0500 INFO  latex - allowing known shell commands
+2020-11-20 10:16:47,686-0500 INFO  latex - enabling input (output) from (to) processes
+2020-11-20 10:16:47,686-0500 INFO  latex - allowing all shell commands
+2020-11-20 10:16:47,718-0500 INFO  latex - going to create file: latex.fmt
+2020-11-20 10:16:47,783-0500 INFO  latex.core - start process: initexmf --enable-installer --dump-by-name=latex --engine=pdftex
+2020-11-20 10:17:42,858-0500 INFO  latex - this process (4568) finishes with exit code 1
+2020-11-20 10:17:42,860-0500 FATAL latex - major issue: So far, you have not checked for MiKTeX updates.

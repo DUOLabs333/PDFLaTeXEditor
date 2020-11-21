@@ -1,0 +1,9 @@
+2020-11-20 10:14:55,791-0500 INFO  dvisvgm - this process (15304) started by 'cmd' with command line: C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install\miktex\bin\x64\dvisvgm.exe --version
+2020-11-20 10:14:55,795-0500 INFO  dvisvgm - this process (15304) finishes with exit code 0
+2020-11-20 10:14:55,805-0500 FATAL dvisvgm - major issue: So far, you have not checked for MiKTeX updates.
+2020-11-20 10:15:03,126-0500 INFO  dvisvgm - this process (13616) started by 'cmd' with command line: C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install\miktex\bin\x64\dvisvgm.exe --version
+2020-11-20 10:15:03,129-0500 INFO  dvisvgm - this process (13616) finishes with exit code 0
+2020-11-20 10:15:03,132-0500 FATAL dvisvgm - major issue: So far, you have not checked for MiKTeX updates.
+2020-11-20 10:17:43,184-0500 INFO  dvisvgm - this process (14488) started by 'cmd' with command line: C:\Users\School\Downloads\PDFLaTeXEditor\miktex-portable\texmfs\install\miktex\bin\x64\dvisvgm.exe -n1 -e tmpfile.dvi
+2020-11-20 10:17:43,801-0500 INFO  dvisvgm - this process (14488) finishes with exit code 0
+2020-11-20 10:17:43,803-0500 FATAL dvisvgm - major issue: So far, you have not checked for MiKTeX updates.
